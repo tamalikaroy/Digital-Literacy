@@ -1,0 +1,15 @@
+﻿Stay Safe Online: Essential Security Habits for Students
+
+
+1. Verify the URL: Always check the exact web address before entering your login details. Scammers often use slight misspellings (like univrsity.edu instead of university.edu).
+2. Never pay to work or win: Legitimate internships, campus ambassador programs, or scholarships will never ask you to pay an "onboarding" or "processing" fee upfront.
+3. Set transaction limits (Financial): Use your banking app to set strict daily limits on your UPI and debit card transactions so that even if compromised, the financial drain is capped.
+4. Bank officials won't ask for PINs (Financial): Remember that true bank representatives or customer care agents will never ask you to share your UPI PIN, CVV, or OTP over a phone call.
+5. Beware of email attachments: Do not download unexpected PDFs or ZIP files from unknown senders, as they often contain malware or keyloggers.
+6. Type, don't click: Instead of clicking links in emails regarding your bank or university accounts, manually type the official website address into your browser.
+7. Use a Password Manager: Stop reusing the same password for your student portal, email, and social media. Use a password manager to generate and store unique passwords.
+8. Check connected devices: Regularly review the "Active Sessions" or "Connected Devices" section in your WhatsApp, Instagram, and Google accounts to ensure no unknown devices are logged in.
+🚨 How to Report Cybercrime in India
+If you or someone you know faces online fraud, harassment, or financial scams, report it immediately:
+* National Cyber Crime Reporting Portal:  (https://cybercrime.gov.in)
+* National Cyber Crime Helpline Number: Dial 1930
