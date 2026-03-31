@@ -30,7 +30,6 @@ This repository serves as a comprehensive **Digital Literacy Portfolio** designe
 * **Description:** Practiced technical skills on **HackerRank** and created a **Google Form** quiz for peer engagement.
 * **Reflection:** Found the HackerRank Python challenges highly engaging for skill verification.
 * **Deliverable:** Located in `task-3-platforms/`.
-* **Google Forms Link:** https://forms.gle/vvJf6ecPKbaF7YdE7
 
 ### Task 4: Professional Email & Etiquette
 * **Description:** Drafted formal emails for academic and internship inquiries.
@@ -45,11 +44,10 @@ This repository serves as a comprehensive **Digital Literacy Portfolio** designe
 ---
 
 ## Important Links
-* **Digital Literacy Quiz (Google Form):** [Paste your Google Form URL here]
+* **Digital Literacy Quiz (Google Form):** https://forms.gle/vvJf6ecPKbaF7YdE7
 * **LinkedIn Profile:** [linkedin.com/in/tamalikaroy13](https://www.linkedin.com/in/tamalikaroy13)
 * **Kaggle Portfolio:** [kaggle.com/tamalikaroy13](https://www.kaggle.com/tamalikaroy13)
-* **Full Project Report:** [View PDF Report](./report/Project_Report.pdf) 
-
+* **Project Report:** `Project_Report.pdf`
 ---
 
 ## Declaration
