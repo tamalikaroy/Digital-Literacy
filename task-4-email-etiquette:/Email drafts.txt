@@ -1,0 +1,21 @@
+﻿Email 1: Request for Assignment Extension
+Subject: Extension Request: Data Analysis Assignment – Tamalika Roy
+Dear Professor,
+I am writing to respectfully request an extension for the Data Analysis Assignment currently due on Wednesday, April 1st, 2026.
+As an Integrated M.Tech student in Computational and Data Science, I am committed to submitting work that meets the high analytical standards of this program. However, due to an unexpected scheduling conflict with my Unnat Bharat Abhiyan volunteering duties, I have been unable to finalize my data analysis to the level of quality I aim for.
+I would greatly appreciate it if you could grant me an extension until Friday, April 3rd, 2026. This additional time will allow me to ensure my findings are thorough and accurately reflect the technical concepts covered in your lectures.
+Thank you for your time and for considering my request.
+Best regards,
+Tamalika Roy (25MIP10038)
+Integrated M.Tech (Computational and Data Science)
+________________
+Email 2: Internship Interest Inquiry
+Subject: Summer Internship Inquiry: Data Science Role - Tamalika Roy
+Dear Hiring Manager,
+My name is Tamalika Roy, and I am an Integrated M.Tech student specializing in Computational and Data Science at VIT Bhopal University. I am writing to express my strong interest in a summer internship opportunity with your Data Science team.
+I have developed a robust technical foundation in Python, Java, and C++ , complemented by hands-on experience in data manipulation using Pandas and NumPy. My recent project, Indian Demographic Analysis using Aadhaar Data, involved cleaning complex datasets and generating visual insights to identify socio-demographic trends. Additionally, I hold a Pandas certification from Kaggle, which has further sharpened my analytical capabilities.
+I have attached my resume for your review and would welcome the chance to discuss how my background in computational science and my proactive learning approach can contribute to your team's objectives.
+Sincerely,
+Tamalika Roy 
+www.linkedin.com/in/tamalikaroy13
+https://github.com/tamalikaroy
